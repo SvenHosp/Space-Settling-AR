@@ -1,4 +1,3 @@
--- Utilities.lua
 -- Hilfsfunktionen für Space-Settling-AR
 
 local Utilities = {}
