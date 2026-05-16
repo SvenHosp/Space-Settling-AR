@@ -1,4 +1,3 @@
--- GameObjects.lua
 -- Spielobjekte und deren Logik für Space-Settling-AR
 
 local GameObjects = {}
