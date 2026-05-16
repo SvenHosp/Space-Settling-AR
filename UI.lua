@@ -1,4 +1,3 @@
--- UI.lua
 -- Benutzeroberfläche für Space-Settling-AR
 
 local UI = {}
